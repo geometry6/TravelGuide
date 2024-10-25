@@ -23,7 +23,7 @@ This project is a simple **Travel Guide Android Application** built with **Kotli
   - `item_travel_destination.xml`: Defines the layout of each travel destination displayed in the `RecyclerView`.
 
 ## Screenshots
-(Add screenshots here of your app displaying travel destinations, if available.)
+![Application Screenshot](screenshot.png)
 
 ## Getting Started
 
