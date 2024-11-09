@@ -35,7 +35,7 @@ This project is a simple **Travel Guide Android Application** built with **Kotli
 ### Setup Instructions
 1. Clone this repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/travel-guide-app.git
+   git clone https://github.com/geometry6/travel-guide-app.git
    \`\`\`
 2. Open the project in **Android Studio**.
 3. Build the project and run it on an emulator or physical device.
